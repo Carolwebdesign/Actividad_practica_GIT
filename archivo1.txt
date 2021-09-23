@@ -1,0 +1,1 @@
+Este es el archivo1.txt creado para la práctica de GIT y GitHub.
